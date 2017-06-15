@@ -132,6 +132,16 @@ class Authentication
     }
 
     /**
+     * Get user ID
+     *
+     * @return mixed
+     */
+    public function userId()
+    {
+        return $this->user()->getId();
+    }
+
+    /**
      * set user
      *
      * @param UserInterface $user Session user

@@ -18,7 +18,7 @@ Auth component uses interfaces to create the authentication logic:
 composer require iuliann/rapture-auth
 ```
 
-## Intro
+## Quick start
 
 ```php
 class User implements UserInterface, SourceInterface
