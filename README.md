@@ -15,7 +15,7 @@ Auth component uses interfaces to create the authentication logic:
 ## Install
 
 ```
-composer require iuliann/rapture-auth
+composer require mrjulio/rapture-auth
 ```
 
 ## Quick start
